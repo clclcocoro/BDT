@@ -25,25 +25,25 @@ import calculate_BDT
 
 """
 
-pdb_file      = "./pdb1a8e_onlyCA.ent"
+pdb_file      = "./data/pdb1a8e_onlyCA.ent"
 bindres_files = {
-    'D'   : "./pdb1a8e_onlyCA_D.bindres",
-    'K'   : "./pdb1a8e_onlyCA_K.bindres",
-    'DK'  : "./pdb1a8e_onlyCA_DK.bindres",
-    'DW'  : "./pdb1a8e_onlyCA_DW.bindres",
-    'all' : "./pdb1a8e_onlyCA_all.bindres"
+    'D'   : "./data/pdb1a8e_onlyCA_D.bindres",
+    'K'   : "./data/pdb1a8e_onlyCA_K.bindres",
+    'DK'  : "./data/pdb1a8e_onlyCA_DK.bindres",
+    'DW'  : "./data/pdb1a8e_onlyCA_DW.bindres",
+    'all' : "./data/pdb1a8e_onlyCA_all.bindres"
 }
 pred_files    = {
-    'D'   : "./pdb1a8e_onlyCA_D.pred",
-    'K'   : "./pdb1a8e_onlyCA_K.pred",
-    'T'   : "./pdb1a8e_onlyCA_T.pred",
-    'V'   : "./pdb1a8e_onlyCA_V.pred",
-    'R'   : "./pdb1a8e_onlyCA_R.pred",
-    'W'   : "./pdb1a8e_onlyCA_W.pred",
-    'C'   : "./pdb1a8e_onlyCA_C.pred",
-    'DK'  : "./pdb1a8e_onlyCA_KD.pred",
-    'WC'  : "./pdb1a8e_onlyCA_WC.pred",
-    'all' : "./pdb1a8e_onlyCA_all.pred"
+    'D'   : "./data/pdb1a8e_onlyCA_D.pred",
+    'K'   : "./data/pdb1a8e_onlyCA_K.pred",
+    'T'   : "./data/pdb1a8e_onlyCA_T.pred",
+    'V'   : "./data/pdb1a8e_onlyCA_V.pred",
+    'R'   : "./data/pdb1a8e_onlyCA_R.pred",
+    'W'   : "./data/pdb1a8e_onlyCA_W.pred",
+    'C'   : "./data/pdb1a8e_onlyCA_C.pred",
+    'DK'  : "./data/pdb1a8e_onlyCA_KD.pred",
+    'WC'  : "./data/pdb1a8e_onlyCA_WC.pred",
+    'all' : "./data/pdb1a8e_onlyCA_all.pred"
 }
 
 
